@@ -1,0 +1,220 @@
+Orders
+Question: Is there a minimum quantity of labels to order?
+Answer: Yes, the minimum quantity is 500 labels.
+Question: How can the minimum order quantity be managed with different entities?
+Answer: Considering that the minimum quantity per order is 500 labels, you have the 
+possibility of selecting different subjects, reaching a total of 500 labels even on 
+different subjects. (Ex: 100 Subject 1; 100 Subject 2; 300 Subject 3)
+Question: Can I also order my labels by phone or email?
+Answer: Contattaci a info@auroflex.it o attraverso i nostri recapiti telefonici.
+Question: Can I pick up a product at your location?
+Answer: Yes, it is possible. For more information contact us at info@auroflex.it or 
+via our telephone numbers.
+Question: Can I change or cancel an order?
+Answer: Yes, it is possible to do it. You can cancel your order for free within 2 
+hours of purchase.
+Advice
+Question: Do you print with variable data?
+Answer: Yes, we use Mosaic and Collage technologies. For variable data, we recommend
+you to request a personalized consultation with our team.
+Question: What are the brands of the papers you use for printing?
+Answer: Our main suppliers are: Fedrigoni group, Avery Denninson, and UPM Raflatac.
+Question: What is a printing plant?
+Answer: Printing plants are the tools (e.g., screen printing frames, hot stamping 
+clichés) that allow us to create labels.
+Question: In my file, there are Pantone colors. Will I actually get the same 
+reproduction during printing?
+Answer: Our printing systems allow us to be faithful to Pantone colors with a 
+precision range that goes from 95% to 100%. To find out if your Pantone color falls 
+within this range, contact us at info@auroflex.it
+Question: Can the printed product be used in contact with food?
+Answer: No, we're sorry. The supports of our labels cannot be in direct contact with
+food.
+Question: Why is the color of the labels not the same as what I see on the computer 
+screen?
+Answer: Achieving the same color rendering between a physical product (printed 
+labels) and a monitor image is particularly complex, even when using professionally 
+calibrated monitors for this purpose. Therefore, we recommend using Pantone color 
+swatches in version C or U to have a color match more similar to the final result. 
+In any case, the same Pantone color will have slight differences if printed on 
+different papers, as each paper has different characteristics (e.g., white point, absorbency, surface).
+Question: Why do you use UV protective varnish?
+Answer: UV varnishing is used to further protect the print from scratches or color 
+contamination.
+Question: What are adhesive labels on a roll?
+Answer: Adhesive labels on a roll are labels that are arranged on rollers or rolls 
+(reels) in such a way as to allow their automatic application through special 
+machines (labelers) on containers (e.g., bottles or jars).
+Question: How many labels are there on each roll? How many labels can be put on a 
+roll?
+Answer: There is no predetermined number, the desired number of labels on a roll can
+be indicated in the quote phase.
+Question: What do you mean by subject?
+Answer: The subjects are graphic variations of the labels that do not affect the 
+dimensions or any finishes.
+Question: It is possible to print the label in multiple subjects.
+Answer: By subject, we mean the possibility of printing different graphics having 
+the same format, materials, and processes.
+(E.g., it is possible to have a round label on rustic paper and print 3 different 
+graphics: one for orange jam, one for strawberry jam, and one for raspberry jam)
+Question: Why are some processes not available for some supports?
+Answer: Not all finishes are applicable to all supports, for example, it is not 
+possible to perform a dry embossing on plastic materials as the desired effect could
+not be obtained.
+Question: When and how is it recommended to use the opaque white?
+Answer: It is advisable to use white on all supports that are not white (e.g., 
+Transparent, Gold or silver paper, and black). In any case, the use of white is 
+conditioned by the effect you want to achieve.
+Question: What colors can I use for hot stamping?
+Answer: We work with hot stamping systems supplied by Kurz and the following colors 
+exist: glossy gold, matte gold, glossy silver, matte silver, pink foil, blue foil, 
+bronze foil, red, green, orange, steel, copper, black, liquid pink, combo green, 
+pebble, beige, blue element, mysterious ruby, polarlight, platinum.
+Question: What are the shapes of the dies available?
+Answer: 4 types of dies: Rectangular or square, Circular, Oval, Irregular.
+DEFINITIONS
+Question: What is FSC?
+Answer: FSC Chain of Custody (CoC) certification ensures the traceability of 
+materials from FSC certified forests and is essential to be able to apply FSC labels
+on products.Question: What does Polar mean?
+Answer: Non-polar surfaces are those surfaces such as PVC and HDPE that have a low 
+surface energy (LSE), so adhesives do not adhere as easily and are more critical.
+Question: What does Non-polar mean?
+Answer: Polar surfaces are those surfaces such as PET and glass that have a high 
+surface energy (HSE) and adhesion to them is easier.
+Question: What is meant by Material?
+Answer: Support on which the label is printed. The choice of material depends both 
+on the aesthetic yield that is desired and on the type of product to be labeled.
+Question: What is meant by Special Inks?
+Answer: Processing that involves the use of white or silver ink on all types of 
+materials, especially on transparent or colored ones. These inks are used as a base 
+layer in dark, transparent, metallized backgrounds to highlight colors and make them
+visible and on white materials to obtain unique artistic effects.
+Question: What is meant by lamination?
+Answer: Lamination, commonly called plasticization, involves the application of a 
+transparent, opaque, glossy or soft touch film to protect or embellish the label. It
+is applied to the entire surface of the label.
+Question: What is meant by varnishing?
+Answer: Varnishing involves the application of varnishes over the entire surface of 
+the label or on some of its details to protect or embellish the label. The varnish 
+can be glossy, matte, overprintable and non-overprintable.
+Question: What is meant by hot printing?
+Answer: Hot printing involves the application of very thin foils or foils, available
+in different color variants. The foils are transferred to the label via cliché, 
+helping to embellish the label.
+Question: What is meant by screen printing?
+Answer: Screen printing involves the application of ink on some details of the label
+to highlight them. This processing can be glossy, matte, flat or embossed. In 
+particular, embossed screen printing, also commonly known as braille effect, allows 
+to obtain a three-dimensional effect.
+Question: What is meant by dry relief?
+Answer: Dry relief is a processing that creates a three-dimensional effect on some 
+details of the label, obtained through cliché. There are two types:
+Embossing: raises particular details, creating a high relief effect.
+Debossing: lowers certain details, creating a low relief effect.
+Question: What is meant by doming?
+Answer: Doming is a three-dimensional effect that gives foils/foils, available in 
+different color variants, the appearance of a poured liquid. This processing is 
+commonly called "poured gold".Question: What is an overprint?
+Answer: Overprinting refers to a printing process that takes place after the main 
+printing of the label. It is an additional print performed on the already printed 
+surface of the base label. This technique can be used to add additional information 
+such as safety information, expiration dates, batch or any other relevant 
+information.
+Question: What is progressive numbering?
+Answer: Progressive numbering in the prints of self-adhesive labels in coil implies 
+the assignment of a unique increasing number to each single label.
+GRAPHIC FILE
+Question: What are the main characteristics to respect in the creation of a graphic 
+file?
+Answer: We have created a guide to read to set up your graphic file optimally, you 
+will find it at this address.
+Question: Should the fonts be converted into paths?
+Answer: Yes
+Question: Should the images be embedded in the document?
+Yes, and with a resolution of 300dpi
+Question: Can I overlap more inks? What is the maximum?
+Question: What characteristics should the file to be sent have?
+Answer: It must be a PDF file with 300dpi images embedded and fonts converted into 
+paths, the color space must be CMYK and in case of using Pantone colors you should 
+use the correct version in relation to the support on which you intend to print. U 
+for Natural papers, C for Coated papers and Plastic Films
+Question: Should the file to be sent be open and editable with all separate layers 
+(texts, images, backgrounds, etc.)?
+Answer: Yes
+Question: Should Pantone colors be converted into four-color process?
+Answer: No, but we recommend using the correct version in relation to the support on
+which you intend to print. U for Natural papers, C for Coated papers and Plastic 
+Films
+Question: How much should the safety margin of text elements and graphic elements 
+from the die line be?
+Answer: We recommend 2 mm, but it is advisable not to go beyond 1 mm
+Question: How much should the abundance of graphics beyond the die line be?
+Answer: We recommend inserting 2mm of abundance
+Question: Should the text be converted into paths?Answer: The file must be accompanied by the relative fonts, alternatively the text 
+must be converted into paths
+Question: How should I incorporate logos and strokes?
+Answer: If they are images, incorporate them into the document at a resolution of 
+300dpi
+Question: What is the required resolution for images in the file?
+Answer: 300dpi
+Question: Which color profile should I adopt?
+Answer: The supported color profile is the standard four-color process CMYK. The RGB
+profile is not supported.
+Question: How can I handle hot printing in my file?
+Answer: Answer in the guide
+Question: How can I handle screen printing in relief in my file?
+Answer: Answer in the guide
+Question: How can I handle doming in my file?
+Answer: Answer in the guide
+Question: What precautions should be considered for printing files on transparent 
+media?
+Answer: For printing on transparent media, it should be noted that the machine will 
+also print using the color white. For this reason, it is necessary to create a new 
+flat tint named "white". For convenience, it is recommended to assign a primary 
+display color such as Cyan or Yellow to the flat tint "white". If there are also 
+other elements that will be printed in a color different from white (for example 
+black texts or images), it is necessary to apply the white color to them as well. 
+This procedure is necessary because the transparent does not have the white 
+background of the paper, therefore, omitting it, the colors will appear "faded". For
+this purpose, duplicates of these elements (perhaps on a new dedicated level) must 
+be created, overlapped and selected as filling the white color previously created by
+activating the "overprint". With symmetrically shaped images (square or rectangular)
+a box of the same size as the image must be created and proceed as above. In the 
+case of "clipped" images, the procedure is the same as just explained, with the only
+difference that instead of the box you will have to create a path that follows the 
+contours of the image.
+Question: What die-cut shape can I choose?
+Answer: In theory, there are no restrictions on the shape of the label to be 
+produced. 
+You can choose between customizable shaped dies or classic shapes such as squares, 
+rectangles, circles or ovals. In the event that the creation of the custom die is 
+not feasible for technical reasons, our staff will contact you to evaluate 
+alternatives and guarantee the best possible realization.
+Question: With which software can I create my print file?Answer: For the design and setting of graphic files, Illustrator is used.
+Question: Can I change the print file?
+Answer: You can request, if the label printing has not yet started.
+Question: In what format should I send the print files?
+Answer: The ideal formats for sending graphic files are: PDF and AI. The label must 
+be in CMYK four-color process. All RGB projects will be converted.
+Question: What is the difference between CMYK and RGB?
+Answer: Four-color or CMYK is the color method used for high-quality printing while 
+RGB is the method used for web-destined files.
+Question: What is the maximum size the file to be printed can have?
+Answer: The resolution must be 300dpi.
+Question: If my file is large, how can I reduce it?
+Answer: We recommend setting the resolution of the images to 300dpi, in case there 
+is also a high number of vector elements, we recommend reducing the number or 
+complexity.
+Question: What is the correct type of colors to use in the file?
+Answer: The file must be in CMYK four-color process. All RGB projects will be 
+converted to CMYK.
+Question: Are my files checked once uploaded? Is my file checked by an operator?
+Answer: Certainly. Once the order has been sent and the files uploaded, our systems 
+and our prepress office will take care of verifying that the file is compatible with
+printing. If this is not the case, you will be contacted by email.
+Question: Can you make changes to my graphic file?
+Answer: Yes, you can see among our services the most suitable for your needs.
+Question: What color profile should I adopt?
+Answer: The supported color profile is the CMYK four-color standard. The RGB profile
+is not supported.
